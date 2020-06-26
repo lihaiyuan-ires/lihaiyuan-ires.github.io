@@ -51,10 +51,13 @@ redirect_from:
 * 国家肿瘤微创治疗产业技术创新战略联盟头颈专业委员会委员
 * 国家肿瘤微创联盟智能医用机器人技术委员会副组长
 * 中国人工智能学会认知系统与信息处理专业委员会会员
+* 中国医学装备协会远程医疗与信息技术分会会员
 * IEEE member
+* ICRA 2020 Reviewer
 * IROS 2020 Reviewer
 * IROS 2019 Reviewer
 * IROS 2013 Reviewer
 * IEEE ARM 2020 Reviewer
 * Robotica Reviewer
 * Journal of Intelligent and Robotic Systems reviewer
+* Robotics and Autonomous systems reviewer
