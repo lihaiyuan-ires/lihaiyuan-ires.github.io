@@ -19,10 +19,34 @@ redirect_from:
 
 国家肿瘤微创治疗产业技术创新战略联盟头颈专业委员会委员。
 
+
  [[科研项目链接]](https://lihaiyuan-ires.github.io/research/)
+ 
+ <span style="color:#0099ff;">【在研项目】</span>
+
+[1] 科技部，国家重点研发计划“智能机器人”专项，面向服务和工业领域的实用多指灵巧手研制，2019-12至2022-11，在研，课题主持 
+
+[2] 科技部，国家重点研发计划“数字诊疗装备研发”专项，头颈外科微创手术机器人关键技术与平台研发，2019-12至2021-12，在研，子课题主持
+
+[3] 中央高校基本科研业务费项目，模块化软体机器人设计与柔顺控制技术研究，2019-01至2020-12，在研，主持
+
+[4] 载人航天预先研究横向委托课题，遥操作主端机器人，2019-5至2020-12，主持
+
+[5] 航天系统横向委托，多模式自组装模块化机器人，2020-9至2021-12，主持
+
+<span style="color:#0099ff;">【结题项目】</span>
+
+[1] 军委科技委，国防科技前沿创新特区项目，自重构模块化机器人技术，2017-07至2018-06，已结题
+
+[2] 中央高校基本科研业务费项目，基于模块化重构机械臂的空间非合作目标捕获，2014-04至2014-12，已结题，参加
+
+[3] 国家自然科学基金委员会，面上项目，群体自组装机器人分布式协同进化控制方法研究，2012-01至2014-12，已结题，参加
+
+[4] 国家磁约束核聚变能发展研究专项项目，托卡马克遥操作维护机器人系统集成与测试关键技术，2012-01至2015-6，已结题，参加
 
 ## 研究动态
 
+- <span style="color:#0099ff;">2020.9.5, 中国医药卫生文化协会医工融合分会成立仪式暨首届全国医工融合创新论坛在京胜利召开，140多位学者参会，21万观众在线参与。 李海源老师当选中国医药卫生文化协会医工融合分会常务委员，[[媒体报道]](http://finance.ifeng.com/c/7zZbLHubnMY)、[[北邮新闻]](https://www.bupt.edu.cn/info/1051/83335.htm)。</span>
 - <span style="color:#0099ff;">2020.3.28，期刊征文，我们在International Journal of Advanced Robotic Systems设立了“Special Issue on Intelligent Perception and Flexible Manipulation of Robotic Hands”。欢迎大家投稿 [[投稿链接]](https://journals.sagepub.com/page/arx/open-special-issues/intelligent-perception-and-flexible-manipulation-of-robotic-hand)</span>
 
 - <span style="color:#0099ff;">2019.12.11，李海源老师为北京信息科技大学学生讲座：模块化、医疗机器人研究及如何开展科研工作。</span>
@@ -48,8 +72,9 @@ redirect_from:
 
 ## 学术兼职
 
-* 国家肿瘤微创治疗产业技术创新战略联盟头颈专业委员会委员
-* 国家肿瘤微创联盟智能医用机器人技术委员会副组长
+* 国家肿瘤微创治疗产业技术创新战略联盟头颈专业委员会 委员
+* 中国医药卫生文化协会医工融合分会 常务委员
+* 国家肿瘤微创联盟智能医用机器人技术委员会 副组长
 * 中国人工智能学会认知系统与信息处理专业委员会会员
 * 中国医学装备协会远程医疗与信息技术分会会员
 * IEEE member
@@ -58,6 +83,34 @@ redirect_from:
 * IROS 2019 Reviewer
 * IROS 2013 Reviewer
 * IEEE ARM 2020 Reviewer
+* Frontiers Robotics and AI Reviewer
 * Robotica Reviewer
-* Journal of Intelligent and Robotic Systems reviewer
-* Robotics and Autonomous systems reviewer
+* Journal of Intelligent and Robotic Systems Reviewer
+* Robotics and Autonomous Systems Reviewer
+* IEEE Access Reviewer
+
+## 主讲课程
+
+### 2020下学期
+
+   - 《智能机器人系统》
+
+###  2020上学期
+
+  - 《现场总线与控制网络》
+
+  - 《电工电子（1）》
+  - 《金工实习》
+
+## 大学生比赛
+###  2020-2021
+
+  - 大创团队2个
+
+###  2019-2020
+
+  - 大创国家级1项（A）
+
+  - 大创其它2项
+
+  - 雏燕1项（A）
