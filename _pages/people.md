@@ -11,23 +11,17 @@ author_profile: true
 
 <div align = "left"><img src = "https://lihaiyuan-ires.github.io/images/cuilinlin.jpg" width = "300"/></div>
 
-- 崔林林
-
-    硕士研究生
-
-    专业：机械电子工程
-
+- 崔林林  
+    硕士研究生  
+    专业：机械电子工程  
     研究方向：微创手术机器人设计、建模与控制技术研究 （国家重点研发计划） 
 <br />
 
 <div align = "left"><img src = "https://lihaiyuan-ires.github.io/images/liuchang.jpg" width = "300"/></div>
 
 - 刘畅  
-
     硕士研究生  
-
     专业：机械工程  
-
     研究方向：遥操作外骨骼机器人 （航天预先研究项目） 
 <br />
 
@@ -37,12 +31,9 @@ author_profile: true
 <div align = "left"><img src = "https://lihaiyuan-ires.github.io/images/qiuyuxuan.jpg" width = "300"/></div>
 
 - 裘宇轩  
-    本科生
-
-    学校：北京邮电大学 
-
+    本科生  
+    学校：北京邮电大学  
     专业：机械工程  
-    
     研究方向：手术机器人柔性臂设计与仿真  
 <br />
 
