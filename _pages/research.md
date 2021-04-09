@@ -52,7 +52,10 @@ author_profile: true
      - 国家重点研发计划“智能机器人”专项
 
 ###  - 模块化自组装机器人
-
+- 集自组装与自重构于一体的模块化机器人任务自适应控制方法研究
+     - 时间：2020-01至2023-12
+     - 项目，主持
+     - 国家自然科学基金
 <div align = "center"><img src = "https://lihaiyuan-ires.github.io/images/multirobot.jpg" width = "200"/></div>
 
 <br/>
