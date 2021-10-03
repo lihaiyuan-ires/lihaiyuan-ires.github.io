@@ -4,9 +4,9 @@ permalink: /people/
 author_profile: true
 ---
 <hr>
-<h3 id="Faculty"><a href="#Faculty" class="headerlink" title="Faculty"></a> <strong> 教师 (Faculty) </strong></h3><hr>
+<h2 id="Faculty"><a href="#Faculty" class="headerlink" title="Faculty"></a> <strong> 教师 (Faculty) </strong></h2><hr>
 
-<h3 id="李海源"><a href="#Haiyuan-Li" class="headerlink" title="Haiyuan Li"></a>李海源</h3><img style="float: right;" src="https://lihaiyuan-ires.github.io/images/profile.jpg" width=200>
+<h3 id="李海源"><a href="#Haiyuan-Li" class="headerlink" title="Haiyuan Li"></a>李海源</h3><img style="float: right;" src="https://lihaiyuan-ires.github.io/images/profile.jpg" width=180>
 <p>博士，副高级，硕士生导师<br>@ 北京邮电大学自动化学院</p>
 <strong>研究方向(Research Interests):</strong>
 <br>智能机器人及嵌入式系统 (Intelligent Robotics and Embedded Control system)
@@ -14,8 +14,8 @@ author_profile: true
 <br>-- 模块化及自重构移动机器人 (Modular and Self-reconfigurable/assembling mobile robot)
 <br>-- 灵巧手与灵巧操作 (Robot hand and Dexterous manipulation)
 <hr>
-<h3 id="Graduates"><a href="#Graduates" class="headerlink" title="Graduates"></a> <strong> 研究生(Graduates) </strong></h3><hr>
-<h3 id="崔林林"><a href="#Linlin-Cui" class="headerlink" title="Linlin-Cui"></a>崔林林</h3><img style="float: right;" src="https://lihaiyuan-ires.github.io/images/cuilinlin.jpg" width=200>
+<h2 id="Graduates"><a href="#Graduates" class="headerlink" title="Graduates"></a> <strong> 研究生(Graduates) </strong></h2><hr>
+<h3 id="崔林林"><a href="#Linlin-Cui" class="headerlink" title="Linlin-Cui"></a>崔林林</h3><img style="float: right;" src="https://lihaiyuan-ires.github.io/images/cuilinlin.jpg" width=180>
 <p>硕士研究生<br>@ 北京邮电大学自动化学院</p>
 <strong>研究方向(Research Interests):</strong>
 <br>
@@ -28,7 +28,7 @@ author_profile: true
 2015-2019, 河北农业大学
 <br><br>
 <hr>
-<h3 id="刘畅"><a href="#Chang-Liu" class="headerlink" title="Chang-Liu"></a>刘畅</h3><img style="float: right;" src="https://lihaiyuan-ires.github.io/images/liuchang.jpg" width=200>
+<h3 id="刘畅"><a href="#Chang-Liu" class="headerlink" title="Chang-Liu"></a>刘畅</h3><img style="float: right;" src="https://lihaiyuan-ires.github.io/images/liuchang.jpg" width=180>
 <p>硕士研究生<br>@ 北京交通大学 </p>
 <strong>研究方向(Research Interests):</strong>
 <br>
@@ -44,9 +44,9 @@ author_profile: true
 中国铁道科学研究院
 
 <hr>
-<h3 id="Visiting Students"><a href="#Visiting Students" class="headerlink" title="Visiting Students"></a> <strong> Visiting Students </strong></h3><hr>
+<h2 id="Visiting Students"><a href="#Visiting Students" class="headerlink" title="Visiting Students"></a> <strong> Visiting Students </strong></h2><hr>
 
-<h3 id="裘宇轩"><a href="#Yuxuan-Qiu" class="headerlink" title="Yuxuan-Qiu"></a>裘宇轩</h3><img style="float: right;" src="https://lihaiyuan-ires.github.io/images/qiuyuxuan.jpg" width=200>
+<h3 id="裘宇轩"><a href="#Yuxuan-Qiu" class="headerlink" title="Yuxuan-Qiu"></a>裘宇轩</h3><img style="float: right;" src="https://lihaiyuan-ires.github.io/images/qiuyuxuan.jpg" width=180>
 <p>本科生<br>@ 北京邮电大学自动化学院 </p>
 <strong>研究方向(Research Interests):</strong>
 <br>
@@ -60,7 +60,7 @@ author_profile: true
 <br>
 日本早稻田大学
 <hr>
-<h3 id="池晓威"><a href="#Xiaowei-Chi" class="headerlink" title="Xiaowei-Chi"></a>池晓威</h3><img style="float: right;" src="https://lihaiyuan-ires.github.io/images/chixiaowei.jpg" width=200>
+<h3 id="池晓威"><a href="#Xiaowei-Chi" class="headerlink" title="Xiaowei-Chi"></a>池晓威</h3><img style="float: right;" src="https://lihaiyuan-ires.github.io/images/chixiaowei.jpg" width=180>
 <p>本科生<br>@ <strong>北京邮电大学国际学院</strong> </p>
 <strong>研究方向(Research Interests):</strong>
 <br>
