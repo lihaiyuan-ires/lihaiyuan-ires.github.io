@@ -9,7 +9,7 @@ redirect_from:
 ---
 李海源，博士，副高级，硕士生导师，北京邮电大学自动化学院教师，机械电子专业，叶培大创新创业学院导师。研究方向：智能机器人及嵌入式系统，具体包括医疗手术机器人、灵巧手与灵巧操作、模块化及自重构移动机器人。
 
-<span style="color:#0099ff;">招生学科：机械工程（保送、考研）。lihaiyuan@bupt.edu.cn</span>
+<span style="color:#0099ff;">招生学科：机械工程（保送、考研。2021-2022年招收学硕、专硕）。lihaiyuan@bupt.edu.cn</span>
 
 主要研究、开发智能机器人及嵌入式系统，包括机器人机电设计、智能控制与感知建模算法。结合控制理论、计算算法与机械工程开展交叉学科研究。通过仿生理论以及信息、生物医学等工程相结合的方法，探索新型的机器人形式及智能算法，并在医疗、航天及工业领域开展潜在应用。与三甲医院、航天工业系统以及著名机器人企业开展深入广泛的合作。研究领域：医用机器人、航天机器人、工业智能机电系统。
 
@@ -46,7 +46,7 @@ redirect_from:
 [4] 国家磁约束核聚变能发展研究专项项目，托卡马克遥操作维护机器人系统集成与测试关键技术，2012-01至2015-6，已结题，参加
 
 ## 研究动态
-
+- <span style="color:#0099ff;">2021.5.23, 为促进国内机器人智能方面的研究，有效推进机器人领域的跨专业背景交流合作，中国人工智能学会于2021年5月23日在北京邮电大学成功主办首期“机器人智能—青年论坛”。[[媒体报道]](https://www.163.com/dy/article/GAUASSSU0511PEBT.html)、[[中国人工智能学会新闻]](http://caai.cn/index.php?s=/home/article/detail/id/1333.html)。</span>
 - <span style="color:#0099ff;">2020.9.5, 中国医药卫生文化协会医工融合分会成立仪式暨首届全国医工融合创新论坛在京胜利召开，140多位学者参会，21万观众在线参与。 李海源老师当选中国医药卫生文化协会医工融合分会常务委员，[[媒体报道]](http://finance.ifeng.com/c/7zZbLHubnMY)、[[北邮新闻]](https://www.bupt.edu.cn/info/1051/83335.htm)。</span>
 - <span style="color:#0099ff;">2020.3.28，期刊征文，我们在International Journal of Advanced Robotic Systems设立了“Special Issue on Intelligent Perception and Flexible Manipulation of Robotic Hands”。欢迎大家投稿 [[投稿链接]](https://journals.sagepub.com/page/arx/open-special-issues/intelligent-perception-and-flexible-manipulation-of-robotic-hand)</span>
 

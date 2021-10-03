@@ -3,13 +3,13 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-- Wu Zhang#, Haiyuan Li#, Linlin Cui, Haiyang Li, Xiangyan Zhang, Shanxiang Fang, Qinjian Zhang. Research progress and development trend of surgical robot and surgical instrument arm. The international Journal of Medical Robotics and Computer Assisted Surgery, July 6, 2021. doi: 10.1002/rcs.2309  [[fulltext]](https://onlinelibrary.wiley.com/doi/10.1002/rcs.2309#)
+- Wu Zhang#, Haiyuan Li#, Linlin Cui, Haiyang Li, Xiangyan Zhang, Shanxiang Fang, Qinjian Zhang. Research progress and development trend of surgical robot and surgical instrument arm. The international Journal of Medical Robotics and Computer Assisted Surgery, 7(5):e2309, July 6, 2021. doi: 10.1002/rcs.2309  [[fulltext]](https://onlinelibrary.wiley.com/doi/10.1002/rcs.2309#)
 
-- Dai Xiaofeng#, Li Haiyuan#. Ning Meng. Plasma Robot Engineering: The Next Generation of Precision Disease Management. Annals of Biomedical Engineering, June 3, 2021. [[fulltext]](https://doi.org/10.1007/s10439-021-02799-8)
+- Dai Xiaofeng#, Li Haiyuan#. Ning Meng. Plasma Robot Engineering: The Next Generation of Precision Disease Management. Annals of Biomedical Engineering, 49: 1593–1597, June 3, 2021. [[fulltext]](https://doi.org/10.1007/s10439-021-02799-8)
 
 - 李海源, 刘畅, 严鲁涛, 张斌, 李端玲, 张勤俭. 上肢外骨骼机器人的阻抗控制与关节试验研究. 机械工程学报.  2020, 56(19): 200-209.DOI: 10.3901/JME.2020.19.200
 
-- Chang Liu, Haiyuan Li, Qinjian Zhang. Configuration Comparison and Design of an Upper Limb Exoskeleton for Robot Teleoperation [C].IEEE International Conference on Mechatronics & Automation. IEEE, 2019.
+- Chang Liu, Haiyuan Li, Qinjian Zhang. Configuration Comparison and Design of an Upper Limb Exoskeleton for Robot Teleoperation [C].IEEE International Conference on Mechatronics & Automation. IEEE, 921-926, 2019.
 
 - Li Haiyuan, Wang Tianmiao, Gregory Chirikjian. Simultaneous Hand-Eye and Robot-World Calibration by Solving the AX=YB Problem without Correspondence [J]. IEEE Robotics and Automation Letters, 1(1): 145-152, 2016. [[fulltext]](https://ieeexplore.ieee.org/document/7349161/)
 
