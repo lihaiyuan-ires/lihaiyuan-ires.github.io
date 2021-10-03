@@ -26,7 +26,7 @@ author_profile: true
 2020-至今，北京邮电大学
 <br>
 2015-2019, 河北农业大学
-<br>
+<br><br>
 <hr>
 <h3 id="刘畅"><a href="#Chang-Liu" class="headerlink" title="Chang-Liu"></a>刘畅</h3><img style="float: right;" src="https://lihaiyuan-ires.github.io/images/liuchang.jpg" width=200>
 <p>硕士研究生<br>@ 北京交通大学 </p>
@@ -51,33 +51,40 @@ author_profile: true
 <strong>研究方向(Research Interests):</strong>
 <br>
 手术机器人柔性臂设计与控制仿真(2020-2021)
+<br>
 <strong>教育经历(Education):</strong>
 <br>
 2017-2021, 北京邮电大学, 本科, 机械工程
+<br>
 <strong>毕业去向:</strong>
 <br>
 日本早稻田大学
-
+<hr>
 <h3 id="池晓威"><a href="#Xiaowei-Chi" class="headerlink" title="Xiaowei-Chi"></a>池晓威</h3><img style="float: right;" src="https://lihaiyuan-ires.github.io/images/chixiaowei.jpg" width=200>
 <p>本科生<br>@ <strong>北京邮电大学国际学院</strong> </p>
 <strong>研究方向(Research Interests):</strong>
 <br>
 灵巧手直线伺服驱动器的阻抗控制与实验(2019-2020)
+<br>
 <strong>教育经历(Education):</strong>
 <br>
 2017-2021, 北京邮电大学, 本科, 国际学院 物联网工程
+<br>
 <strong>毕业去向:</strong>
 <br>
 加州大学圣地亚哥分校
+<hr>
 <h3 id="孙旌凯"><a href="#Jingkai-Sun" class="headerlink" title="Jingkai-Sun"></a>孙旌凯</h3><img style="float: right;">
 <br>
 <p>本科生<br>@ <strong>英国曼彻斯特大学</strong> </p>
 <strong>研究方向(Research Interests):</strong>
 <br>
 一体化驱控关节(2019, summer)
+<br>
 <strong>教育经历(Education):</strong>
 <br>
 2017-2021, 英国曼彻斯特大学, 电气工程 
+<br>
 
 
 
