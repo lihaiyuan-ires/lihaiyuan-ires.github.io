@@ -13,6 +13,8 @@ main:
   - title: "Homepage"
     url: /about/
 
+  - title: "Teaching"
+    url: /teaching/
   # - title: "Teaching"
   #   url: /teaching/   
       

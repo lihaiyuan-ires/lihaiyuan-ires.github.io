@@ -26,6 +26,19 @@ author_profile: true
 2020-至今，北京邮电大学
 <br>
 2015-2019, 河北农业大学
+<br>
+<hr>
+<h3 id="王浩羽"><a href="#Haoyuan-Wang" class="headerlink" title="Haoyuan-Wang"></a>王浩羽</h3><img style="float: right;" src="https://lihaiyuan-ires.github.io/images/wanghaoyu.jpg" width=180>
+<p>硕士研究生<br>@ 北京邮电大学自动化学院</p>
+<strong>研究方向(Research Interests):</strong>
+<br>
+模块化自组装机器人 （国家重点研发计划、国家自然科学基金）
+<br>
+<strong>教育经历(Education):</strong>
+<br>
+2021-至今，北京邮电大学
+<br>
+2016-2021, 北京邮电大学
 <br><br>
 <hr>
 <h3 id="刘畅"><a href="#Chang-Liu" class="headerlink" title="Chang-Liu"></a>刘畅</h3><img style="float: right;" src="https://lihaiyuan-ires.github.io/images/liuchang.jpg" width=180>
