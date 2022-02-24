@@ -3,11 +3,21 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-- Haiyuan Li*, Linlin Cui, Yuxuan Qiu, Lutao Yan, Qinjian Zhang. System Design and Simulation Experiments of a Virtual Reality Based Tele-operated Surgical Robot System. The 2021 IEEE International Conference on Robotics and Biomimetics(IEEE), Sanya, China, December 6-10, 2021, accept.
+## 2021
+- Haiyuan Li*, Linlin Cui, Yuxuan Qiu, Lutao Yan, Qinjian Zhang. System Design and Simulation Experiments of a Virtual Reality Based Tele-operated Surgical Robot System. The 2021 IEEE International Conference on Robotics and Biomimetics(IEEE), Sanya, China, December 6-10.
 
-- Wu Zhang#, Haiyuan Li#, Linlin Cui, Haiyang Li, Xiangyan Zhang, Shanxiang Fang, Qinjian Zhang. Research progress and development trend of surgical robot and surgical instrument arm. The international Journal of Medical Robotics and Computer Assisted Surgery, 7(5):e2309, July 6, 2021. doi: 10.1002/rcs.2309  [[fulltext]](https://onlinelibrary.wiley.com/doi/10.1002/rcs.2309#)
+- Wu Zhang#, Haiyuan Li#, Linlin Cui, Haiyang Li, Xiangyan Zhang, Shanxiang Fang, Qinjian Zhang*. Research progress and development trend of surgical robot and surgical instrument arm. The international Journal of Medical Robotics and Computer Assisted Surgery, 7(5):e2309, July 6, 2021. doi: 10.1002/rcs.2309  [[fulltext]](https://onlinelibrary.wiley.com/doi/10.1002/rcs.2309#)
 
 - Dai Xiaofeng#, Li Haiyuan#. Ning Meng. Plasma Robot Engineering: The Next Generation of Precision Disease Management. Annals of Biomedical Engineering, 49: 1593–1597, June 3, 2021. [[fulltext]](https://doi.org/10.1007/s10439-021-02799-8)
+
+- Xiangyan Zhang, Haiyuan Li*, Bin Zhang, Qinjian Zhang* and Yingpeng Cai. Kinematics Analysis and Grasping Simulation of a Humanoid Underactuated Dexterous Hand. The 2021 IEEE International Conference on Robotics and Biomimetics(IEEE), Sanya, China, December 6-10, 2021.
+
+- Fei Wang, Duanling Li*, Haiyuan Li. Mechanism Design and Kinematic Analysis of a Robotic Modular Finger and Reconfigurable Hand. The 2021 IEEE International Conference on Robotics and Biomimetics(IEEE), Sanya, China, December 6-10, 2021.
+  
+- Yuting Xie, Xiaowei Chi, Haiyuan Li*, Fuwen Wang, Lutao Yan, Bin Zhang, and Qinjian Zhang. Coal and Gangue Recognition Method Based on Local Texture Classification Network for Robot Picking. Applied Sciences 11, no. 23: 11495, 2021.[[fulltext]](https://doi.org/10.3390/app112311495) 
+
+- 严鲁涛, 王琦, 李海源, 李端玲, 夏继强. 基于SMA驱动的连续体手术机器人研究综述. 机械工程学报, 2021, 57 (11): 138-152. doi: 10.3901/JME.2021.11.138
+## Before 2021
 
 - 李海源, 刘畅, 严鲁涛, 张斌, 李端玲, 张勤俭. 上肢外骨骼机器人的阻抗控制与关节试验研究. 机械工程学报.  2020, 56(19): 200-209.DOI: 10.3901/JME.2020.19.200
 

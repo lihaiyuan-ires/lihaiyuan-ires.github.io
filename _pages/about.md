@@ -11,6 +11,8 @@ redirect_from:
 
 <span style="color:#0099ff;">招生学科：机械工程（保送、考研。2021-2022年招收学硕、专硕）。lihaiyuan@bupt.edu.cn</span>
 
+<span style="color:#0099ff;">招生专业：机械工程、自动化、控制、计算机、电子与信息等。</span>
+
 主要研究、开发智能机器人及嵌入式系统，包括机器人机电设计、智能控制与感知建模算法。结合控制理论、计算算法与机械工程开展交叉学科研究。通过仿生理论以及信息、生物医学等工程相结合的方法，探索新型的机器人形式及智能算法，并在医疗、航天及工业领域开展潜在应用。与三甲医院、航天工业系统以及著名机器人企业开展深入广泛的合作。研究领域：医用机器人、航天机器人、工业智能机电系统。
 
 发表SCI、EI等论文20多篇，包括IEEE Robotics and Automation Letters（RA-L），Journal of Intelligent & Robotic Systems(JINT)，Neurocomputing，Robotica等SCI期刊以及 IEEE International Conference on Robotics and Automation (ICRA), IEEE/RSJ International Conference on Intelligent Robots and Systems(IROS)等机器人领域顶级会议。申请和授权发明专利5项。
@@ -79,35 +81,50 @@ redirect_from:
 * 中国人工智能学会认知系统与信息处理专业委员会会员
 * 中国医学装备协会远程医疗与信息技术分会会员
 * IEEE member
-* ICRA 2020 Reviewer
-* IROS 2020 Reviewer
-* IROS 2019 Reviewer
-* IROS 2013 Reviewer
-* IEEE ARM 2020 Reviewer
-* Frontiers Robotics and AI Reviewer
-* Robotica Reviewer
-* Journal of Intelligent and Robotic Systems Reviewer
-* Robotics and Autonomous Systems Reviewer
-* IEEE Access Reviewer
+### Reviewer:
+* ICRA 2022/2020
+* IROS 2020/2019/2013
+* IEEE ARM 2020
+* Frontiers Robotics and AI
+* Robotica
+* Journal of Intelligent and Robotic Systems
+* Robotics and Autonomous Systems
+* IEEE Access
+* International Journal of Medical Robotics and Computer Assisted Surgery
 
 ## 主讲课程
+### 2022 春季学期
 
-### 2021上学期
+- 本科生：《机器人控制系统设计》，ROS机器人操作系统
+- 研究生：《机器人操作系统与控制算法》
+
+### 2021 秋季学期
+
+- 《电工电子（下）》
+- 《智能机器人系统》
+
+### 2021 春季学期
 
    - 《机器人控制系统设计》，ROS机器人操作系统
 
-### 2020下学期
+### 2020 秋季学期
 
    - 《智能机器人系统》
 
-###  2020上学期
+###  2020 春季学期
 
   - 《现场总线与控制网络》
-
   - 《电工电子（1）》
   - 《金工实习》
 
-## 大学生比赛
+## 大学生比赛与学生培养
+### 2021
+
+- 中国工程机器人大赛暨国际公开赛，2021年12月，全国一等奖
+- 北京市优秀本科毕业设计论文优秀指导老师，2021年7月
+- “挑战杯”首都大学生课外学术科技作品竞赛，三等奖
+- 北京市大学生机械创新设计大赛，一等奖
+
 ###  2020-2021
 
   - 大创团队2个
