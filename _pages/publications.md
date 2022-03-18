@@ -3,6 +3,23 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+# Research field
+
+### Surgical robot
+- Flexible robot for endoscopic surgery, e.g. robotic thyroid surgery
+- Ultrasound guided robot, ultrasound and robot calibration, registration and planning control as well as robot design for prostate, liver
+
+### Robot hand and robot manipulation
+- Reconfigurable robot hand
+- Grasp
+
+### Modular robotics
+- Self-assembling robot, swarm robot with mechanical interconnection or autonomous docking
+- Self-reconfigurable robot
+
+## 2022
+- Li, Haiyuan*, Haoyu Wang, Linlin Cui, Jiake Li*, Qi Wei, and Jiqiang Xia. 2022. Design and Experiments of a Compact Self-Assembling Mobile Modular Robot with Joint Actuation and Onboard Visual-Based Perception. Applied Sciences, 12(6): 3050. [fulltext]](https://www.mdpi.com/2076-3417/12/6/3050/htm)
+  
 ## 2021
 - Haiyuan Li*, Linlin Cui, Yuxuan Qiu, Lutao Yan, Qinjian Zhang. System Design and Simulation Experiments of a Virtual Reality Based Tele-operated Surgical Robot System. The 2021 IEEE International Conference on Robotics and Biomimetics(IEEE), Sanya, China, December 6-10.
 
