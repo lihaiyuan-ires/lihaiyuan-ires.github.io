@@ -16,46 +16,86 @@ author_profile: true
 <hr>
 <h2 id="Graduates"><a href="#Graduates" class="headerlink" title="Graduates"></a> <strong> 研究生(Graduates) </strong></h2><hr>
 <h3 id="崔林林"><a href="#Linlin-Cui" class="headerlink" title="Linlin-Cui"></a>崔林林</h3><img style="float: right;" src="https://lihaiyuan-ires.github.io/images/cuilinlin.jpg" width=180>
-<p>硕士研究生<br>@ 北京邮电大学自动化学院</p>
+<p>硕士研究生<br> </p>
 <strong>研究方向(Research Interests):</strong>
 <br>
 微创手术机器人设计、建模与控制技术研究 （国家重点研发计划）
 <br>
 <strong>教育经历(Education):</strong>
 <br>
-2020-至今，北京邮电大学
+2020-至今，硕士，北京邮电大学
 <br>
-2015-2019, 河北农业大学
+2015-2019, 本科，河北农业大学
+<br>
 <br>
 <hr>
 <h3 id="王浩羽"><a href="#Haoyuan-Wang" class="headerlink" title="Haoyuan-Wang"></a>王浩羽</h3><img style="float: right;" src="https://lihaiyuan-ires.github.io/images/wanghaoyu.jpg" width=180>
-<p>硕士研究生<br>@ 北京邮电大学自动化学院</p>
+<p>硕士研究生<br> </p>
 <strong>研究方向(Research Interests):</strong>
 <br>
 模块化自组装机器人 （国家重点研发计划、国家自然科学基金）
 <br>
 <strong>教育经历(Education):</strong>
 <br>
-2021-至今，北京邮电大学
+2021-至今，硕士，北京邮电大学
 <br>
-2016-2021, 北京邮电大学
-<br><br>
+2016-2021, 本科，北京邮电大学
+<br>
+<br>
+<hr>
+<h3 id="晁明辉"><a href="#Minghui-Chao" class="headerlink" title="Minghui-Chao"></a>晁明辉</h3><img style="float: right;" src="https://lihaiyuan-ires.github.io/images/chaominghui.jpg" width=180>
+<p>硕士研究生<br> </p>
+<strong>研究方向(Research Interests):</strong>
+<br>
+<br>
+<br>
+<strong>教育经历(Education):</strong>
+<br>
+2022-至今，硕士，北京邮电大学
+<br>
+2018-2022, 本科，北京邮电大学
+<br>
+<hr>
+<h3 id="冷明阳"><a href="#Mingyang-Leng" class="headerlink" title="Mingyang-Leng"></a>冷明阳</h3><img style="float: right;" src="https://lihaiyuan-ires.github.io/images/lengmingyang.jpg" width=180>
+<p>硕士研究生<br> </p>
+<strong>研究方向(Research Interests):</strong>
+<br>
+<br>
+<br>
+<strong>教育经历(Education):</strong>
+<br>
+2022-至今，硕士，北京邮电大学
+<br>
+2018-2022，本科，北京邮电大学
+<br>
+<hr>
+<h3 id="黄毅明"><a href="#Yiming-Huang" class="headerlink" title="Minghui-Chao"></a>黄毅明</h3><img style="float: right;" src="https://lihaiyuan-ires.github.io/images/huangyiming.jpg" width=180>
+<p>硕士研究生<br> </p>
+<strong>研究方向(Research Interests):</strong>
+<br>
+<br>
+<br>
+<strong>教育经历(Education):</strong>
+<br>
+2022-至今，硕士，北京邮电大学
+<br>
+2018-2022，本科，北京邮电大学
+<br>
 <hr>
 <h3 id="刘畅"><a href="#Chang-Liu" class="headerlink" title="Chang-Liu"></a>刘畅</h3><img style="float: right;" src="https://lihaiyuan-ires.github.io/images/liuchang.jpg" width=180>
-<p>硕士研究生<br>@ 北京交通大学 </p>
+<p>硕士研究生<br> </p>
 <strong>研究方向(Research Interests):</strong>
 <br>
 面向遥操作的上肢外骨骼机器人设计与控制研究 （航天预先研究项目）<br>
 <strong>教育经历(Education):</strong>
 <br>
-2017-2020，北京交通大学
+2017-2020，硕士，北京交通大学
 <br>
-2013-2017, 北京工商大学
+2013-2017，本科，北京工商大学
 <br>
 <strong>毕业去向:</strong>
 <br>
 中国铁道科学研究院
-
 <hr>
 <h2 id="Visiting Students"><a href="#Visiting Students" class="headerlink" title="Visiting Students"></a> <strong> Visiting Students </strong></h2><hr>
 
