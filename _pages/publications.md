@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 # Research field
-
+ [[CV in English]](https://lihaiyuan-ires.github.io/images/biolihaiyuan.pdf)
 ### Surgical robot
 - Flexible robot for endoscopic surgery, e.g. robotic thyroid surgery
 - Ultrasound guided robot, ultrasound and robot calibration, registration and planning control as well as robot design for prostate, liver
