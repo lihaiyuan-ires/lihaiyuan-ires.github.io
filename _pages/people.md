@@ -25,7 +25,7 @@ author_profile: true
 <br>
 2020-至今，硕士，北京邮电大学
 <br>
-2015-2019, 本科，河北农业大学
+2015-2019, 本科，河北农业大学，机械工程专业
 <br>
 <br>
 <hr>
@@ -39,7 +39,7 @@ author_profile: true
 <br>
 2021-至今，硕士，北京邮电大学
 <br>
-2016-2021, 本科，北京邮电大学
+2016-2021, 本科，北京邮电大学，机械工程专业
 <br>
 <br>
 <hr>
@@ -53,7 +53,7 @@ author_profile: true
 <br>
 2022-至今，硕士，北京邮电大学
 <br>
-2018-2022, 本科，北京邮电大学
+2018-2022, 本科，北京邮电大学，自动化专业
 <br>
 <hr>
 <h3 id="冷明阳"><a href="#Mingyang-Leng" class="headerlink" title="Mingyang-Leng"></a>冷明阳</h3><img style="float: right;" src="https://lihaiyuan-ires.github.io/images/lengmingyang.jpg" width=180>
@@ -66,7 +66,8 @@ author_profile: true
 <br>
 2022-至今，硕士，北京邮电大学
 <br>
-2018-2022，本科，北京邮电大学
+2018-2022，本科，北京邮电大学，机械工程专业
+<br>
 <br>
 <hr>
 <h3 id="黄毅明"><a href="#Yiming-Huang" class="headerlink" title="Minghui-Chao"></a>黄毅明</h3><img style="float: right;" src="https://lihaiyuan-ires.github.io/images/huangyiming.jpg" width=180>
@@ -79,7 +80,22 @@ author_profile: true
 <br>
 2022-至今，硕士，北京邮电大学
 <br>
-2018-2022，本科，北京邮电大学
+2018-2022，本科，湖北工业大学，机械工程专业
+<br>
+<br>
+<hr>
+<h3 id="贺添"><a href="#Tian-He" class="headerlink" title="Tian-He"></a>贺添</h3><img style="float: right;" src="https://lihaiyuan-ires.github.io/images/hetian.jpg" width=180>
+<p>硕士研究生<br> </p>
+<strong>研究方向(Research Interests):</strong>
+<br>
+<br>
+<br>
+<strong>教育经历(Education):</strong>
+<br>
+2022-至今，硕士，北京邮电大学
+<br>
+2018-2022，本科，北京邮电大学，测控技术专业
+<br>
 <br>
 <hr>
 <h3 id="刘畅"><a href="#Chang-Liu" class="headerlink" title="Chang-Liu"></a>刘畅</h3><img style="float: right;" src="https://lihaiyuan-ires.github.io/images/liuchang.jpg" width=180>
@@ -91,7 +107,7 @@ author_profile: true
 <br>
 2017-2020，硕士，北京交通大学
 <br>
-2013-2017，本科，北京工商大学
+2013-2017，本科，北京工商大学，机械工程专业
 <br>
 <strong>毕业去向:</strong>
 <br>
