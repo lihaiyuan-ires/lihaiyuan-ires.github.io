@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "ch-China"
-title                    : "李海源 @ BUPT"
+title                    : "IRES Lab @ BUPT"
 subtitle                 : "Intelligent Robotics & Embedded Systems"
 title_separator          : "-"
-name                     : &name "李海源 @ BUPT Intelligent Robotics & Embedded Systems"
-description              : &description "李海源，研究方向：智能机器人及嵌入式系统"
+name                     : &name "机器人与嵌入式智能系统 @ BUPT Intelligent Robotics & Embedded Systems"
+description              : &description "李海源，研究方向：机器人与嵌入式智能系统"
 url                      : https://lihaiyuan-ires.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lihaiyuan-ires/lihaiyuan-ires.github.io"
@@ -81,9 +81,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "李海源"
+  name             : "机器人与嵌入式智能系统"
   avatar           : "lablogo.png"
-  bio              : "医疗手术机器人、灵巧手与灵巧操作、模块化及自重构移动机器人<br/>lihaiyuan@bupt.edu.cn"
+  bio              : "医疗手术机器人、灵巧手与灵巧操作、模块化及自重构机器人<br/>lihaiyuan@bupt.edu.cn"
   location         : "北京 · 中国"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
