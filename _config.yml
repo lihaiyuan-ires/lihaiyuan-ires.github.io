@@ -82,8 +82,8 @@ analytics:
 # Site Author
 author:
   name             : "李海源"
-  avatar           : "profile.jpg"
-  bio              : "博士，副高级，硕士生导师，北京邮电大学自动化学院。<br/> 研究方向：智能机器人及嵌入式系统 (Intelligent Robotics & Embedded Systems (IRES))。<br/>lihaiyuan@bupt.edu.cn"
+  avatar           : "lablogo.png"
+  bio              : "医疗手术机器人、灵巧手与灵巧操作、模块化及自重构移动机器人<br/>lihaiyuan@bupt.edu.cn"
   location         : "北京 · 中国"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -104,7 +104,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            : https://orcid.org/0000-0002-7822-742X # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
