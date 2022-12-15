@@ -18,7 +18,18 @@ author_profile: true
 - Self-reconfigurable robot
 
 ## 2022
-- Li, Haiyuan, Haoyu Wang, Linlin Cui, Jiake Li, Qi Wei, and Jiqiang Xia.  Design and Experiments of a Compact Self-Assembling Mobile Modular Robot with Joint Actuation and Onboard Visual-Based Perception. Applied Sciences,2022, 12(6): 3050. [[fulltext]](https://www.mdpi.com/2076-3417/12/6/3050/htm)
+- Li Haiyuan*, Cui Linlin, Zhang Yuhang, Zhang Qinjian and Wang Haoyu Wang. A Modular and Extended Positioning Robotic System for Percutaneous Puncture Surgery. 2022 IEEE International Conference on Robotics and Biomimetics (ROBIO), 2022. 
+
+- Li Haiyuan*, Wang Haoyu, Zhang Bin and Zhang Qinjian Zhang. Path Planning and Control for Modular Self-assembling Robots on Rough Terrain. The 2022 IEEE International Conference on Robotics and Biomimetics (ROBIO), 2022.
+
+- Yu Hongze, Li Haiyuan*, Wang Yan. Teleoperation of a dexterous hand using a wearable hand. The Seventh International Conference on Cognitive Systems and Information Processing (ICCSIP 2022), 2022.
+- Li, Haiyuan*, Haoyu Wang, Linlin Cui, Jiake Li*, Qi Wei, and Jiqiang Xia.  Design and Experiments of a Compact Self-Assembling Mobile Modular Robot with Joint Actuation and Onboard Visual-Based Perception. Applied Sciences,2022, 12(6): 3050. [[fulltext]](https://www.mdpi.com/2076-3417/12/6/3050/htm)
+
+- Li Xingshuai, Zhang Qinjian, Li Haiyuan*, Liu Baoguo and He Qingqing, "Kinematics Modeling and Simulation of a Flexible Surgical Robotic Instrument with a Multi-joint Wrist," 2022 12th International Conference on CYBER Technology in Automation, Control, and Intelligent Systems (CYBER), 2022, pp. 821-826.
+
+- Zhang Qinjian, Zhang Xiangyan, Li Haiyuan*. A Grasp Pose Detection Network Based on the DeepLabv3+ Semantic Segmentation Model. In: Intelligent Robotics and Applications. ICIRA 2022. Lecture Notes in Computer Science, 2022, vol 13458.
+
+- Zhang Qinjian, Wang Pengcheng, Li Haiyuan*, Li Xingshuai. Design, Modeling and Experiments of a Modular Robotic Finger. In: Intelligent Robotics and Applications. ICIRA 2022. Lecture Notes in Computer Science, 2022, vol 13455.
   
 ## 2021
 - Haiyuan Li*, Linlin Cui, Yuxuan Qiu, Lutao Yan, Qinjian Zhang. System Design and Simulation Experiments of a Virtual Reality Based Tele-operated Surgical Robot System. The 2021 IEEE International Conference on Robotics and Biomimetics(IEEE), Sanya, China, December 6-10.
