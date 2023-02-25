@@ -23,6 +23,7 @@ author_profile: true
 - Li Haiyuan*, Wang Haoyu, Zhang Bin and Zhang Qinjian Zhang. Path Planning and Control for Modular Self-assembling Robots on Rough Terrain. The 2022 IEEE International Conference on Robotics and Biomimetics (ROBIO), 2022.
 
 - Yu Hongze, Li Haiyuan*, Wang Yan. Teleoperation of a dexterous hand using a wearable hand. The Seventh International Conference on Cognitive Systems and Information Processing (ICCSIP 2022), 2022.
+
 - Li, Haiyuan*, Haoyu Wang, Linlin Cui, Jiake Li*, Qi Wei, and Jiqiang Xia.  Design and Experiments of a Compact Self-Assembling Mobile Modular Robot with Joint Actuation and Onboard Visual-Based Perception. Applied Sciences,2022, 12(6): 3050. [[fulltext]](https://www.mdpi.com/2076-3417/12/6/3050/htm)
 
 - Li Xingshuai, Zhang Qinjian, Li Haiyuan*, Liu Baoguo and He Qingqing, "Kinematics Modeling and Simulation of a Flexible Surgical Robotic Instrument with a Multi-joint Wrist," 2022 12th International Conference on CYBER Technology in Automation, Control, and Intelligent Systems (CYBER), 2022, pp. 821-826.
@@ -34,7 +35,7 @@ author_profile: true
 ## 2021
 - Haiyuan Li*, Linlin Cui, Yuxuan Qiu, Lutao Yan, Qinjian Zhang. System Design and Simulation Experiments of a Virtual Reality Based Tele-operated Surgical Robot System. The 2021 IEEE International Conference on Robotics and Biomimetics(IEEE), Sanya, China, December 6-10.
 
-- Wu Zhang#, Haiyuan Li#, Linlin Cui, Haiyang Li, Xiangyan Zhang, Shanxiang Fang, Qinjian Zhang*. Research progress and development trend of surgical robot and surgical instrument arm. The international Journal of Medical Robotics and Computer Assisted Surgery, 7(5):e2309, July 6, 2021. doi: 10.1002/rcs.2309  [[fulltext]](https://onlinelibrary.wiley.com/doi/10.1002/rcs.2309#)
+- Wu Zhang#, Haiyuan Li#, Linlin Cui, Haiyang Li, Xiangyan Zhang, Shanxiang Fang, Qinjian Zhang*. Research progress and development trend of surgical robot and surgical instrument arm. The international Journal of Medical Robotics and Computer Assisted Surgery, 7(5):e2309, July 6, 2021. doi: 10.1002/rcs.2309  [[fulltext]](https://onlinelibrary.wiley.com/doi/10.1002/rcs.2309#) (A top cited artical 2022)
 
 - Dai Xiaofeng#, Li Haiyuan#. Ning Meng. Plasma Robot Engineering: The Next Generation of Precision Disease Management. Annals of Biomedical Engineering, 49: 1593–1597, June 3, 2021. [[fulltext]](https://doi.org/10.1007/s10439-021-02799-8)
 

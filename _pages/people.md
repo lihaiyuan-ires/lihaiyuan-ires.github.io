@@ -9,7 +9,7 @@ author_profile: true
 <h3 id="李海源"><a href="#Haiyuan-Li" class="headerlink" title="Haiyuan Li"></a>李海源</h3><img style="float: right;" src="https://lihaiyuan-ires.github.io/images/profile.jpg" width=180>
 <p>博士，副高级，硕士生导师<br>@ 北京邮电大学自动化学院</p>
 <strong>研究方向(Research Interests):</strong>
-<br>智能机器人及嵌入式系统 (Intelligent Robotics and Embedded Control system)
+<br>智能机器人设计及嵌入式控制系统 (Intelligent Robotics Design and Embedded Control system)
 <br>-- 医疗手术机器人 (Medical Surgical Robotics)
 <br>-- 模块化及自重构移动机器人 (Modular and Self-reconfigurable/assembling mobile robot)
 <br>-- 灵巧手与灵巧操作 (Robot hand and Dexterous manipulation)
