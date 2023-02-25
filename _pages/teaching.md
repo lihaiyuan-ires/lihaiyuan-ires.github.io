@@ -5,7 +5,7 @@ type: "Undergraduate & Graduate course"
 permalink: /teaching/
 venue: "Beijing University of Posts and Telecommunication, Robotics"
 date: 2021-01-01
-location: "City, Country"
+location: "Beijing, China"
 ---
 ## 主讲课程
 
