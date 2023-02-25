@@ -8,10 +8,10 @@
 # Site Settings
 locale                   : "ch-China"
 title                    : "IRES Lab @ BUPT"
-subtitle                 : "Intelligent Robotics & Embedded Systems"
+subtitle                 : "Intelligent Robotics Enabling Next-Generation Surgery"
 title_separator          : "-"
-name                     : &name "机器人与嵌入式智能系统 @ BUPT Intelligent Robotics & Embedded Systems"
-description              : &description "李海源，研究方向：机器人与嵌入式智能系统"
+name                     : &name "智能机器人与嵌入式控制系统 @ BUPT Intelligent Robotics Enabling Next-Generation Surgery"
+description              : &description "李海源，研究方向：智能机器人与嵌入式控制系统"
 url                      : https://lihaiyuan-ires.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lihaiyuan-ires/lihaiyuan-ires.github.io"
