@@ -81,9 +81,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "机器人与嵌入式智能系统"
+  name             : "智能机器人设计与嵌入式控制"
   avatar           : "lablogo.png"
-  bio              : "医疗手术机器人、灵巧手与灵巧操作、模块化及自重构机器人<br/>lihaiyuan@bupt.edu.cn"
+  bio              : "医疗手术机器人、内镜控制与图像引导手术机器人、机器人灵巧手与灵巧操作、模块化机器人<br/>lihaiyuan@bupt.edu.cn"
   location         : "北京 · 中国"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
