@@ -35,7 +35,8 @@ author_profile: true
 ## 2021
 - Haiyuan Li*, Linlin Cui, Yuxuan Qiu, Lutao Yan, Qinjian Zhang. System Design and Simulation Experiments of a Virtual Reality Based Tele-operated Surgical Robot System. The 2021 IEEE International Conference on Robotics and Biomimetics(IEEE), Sanya, China, December 6-10.
 
-- Wu Zhang#, Haiyuan Li#, Linlin Cui, Haiyang Li, Xiangyan Zhang, Shanxiang Fang, Qinjian Zhang*. Research progress and development trend of surgical robot and surgical instrument arm. The international Journal of Medical Robotics and Computer Assisted Surgery, 7(5):e2309, July 6, 2021. doi: 10.1002/rcs.2309  [[fulltext]](https://onlinelibrary.wiley.com/doi/10.1002/rcs.2309#) (A top cited artical 2022)
+- Wu Zhang#, Haiyuan Li#, Linlin Cui, Haiyang Li, Xiangyan Zhang, Shanxiang Fang, Qinjian Zhang*. Research progress and development trend of surgical robot and surgical instrument arm. The international Journal of Medical Robotics and Computer Assisted Surgery, 7(5):e2309, July 6, 2021. doi: 10.1002/rcs.2309  [[fulltext]](https://onlinelibrary.wiley.com/doi/10.1002/rcs.2309#) <span style="color:blue;"> (A top cited article 2022) </span><span style="color:red;"> （A top downloaded article）</span>
+
 
 - Dai Xiaofeng#, Li Haiyuan#. Ning Meng. Plasma Robot Engineering: The Next Generation of Precision Disease Management. Annals of Biomedical Engineering, 49: 1593–1597, June 3, 2021. [[fulltext]](https://doi.org/10.1007/s10439-021-02799-8)
 
