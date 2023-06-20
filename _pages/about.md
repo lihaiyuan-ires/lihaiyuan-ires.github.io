@@ -7,19 +7,24 @@ redirect_from:
   - /about/
   - /about.html
 ---
-李海源，博士，副高级，硕士生导师，“1551”托举人才，智能机器人创新实践基地主任，机械电子专业，叶培大创新创业学院导师。
+李海源，副高级，博士生导师、硕士生导师，“1551”托举人才，智能机器人创新实践基地主任，机械电子专业，叶培大创新创业学院导师。
 
 <span style="color:blue;">研究方向</span>：智能机器人设计与嵌入式机电控制，具体包括：医疗手术机器人、内镜控制与图像引导手术机器人、机器人灵巧手与灵巧操作、模块化机器人。
 
 主要研究、开发智能机器人及嵌入式控制系统，包括机器人的机械设计、机器人运动控制硬件与软件设计、智能控制与感知建模算法。结合控制理论、计算算法与机械工程开展交叉学科研究，探索新型的机器人设计及智能算法，并在医疗手术机器人、航天及工业领域开展潜在应用。与三甲医院、航天工业系统以及著名机器人企业开展深入广泛的合作。
 
-<span style="color:red;">招生学科：机械工程（保送、考研。2022-2023年招收学硕、专硕）。lihaiyuan@bupt.edu.cn</span>
+<span style="color:red;">【本年度招生】</span>
 
-<span style="color:#0099ff;">招生专业：机械工程、自动化、控制、计算机、电子与信息等。</span>
+硕士研究生（保送、考研，2023-2024年招收学硕、专硕）
+博士研究生。
+lihaiyuan@bupt.edu.cn
+<span style="color:#0099ff;">【招生专业】</span>
 
- <span style="color:#0099ff;">【个人介绍】</span>
+机械工程、自动化、控制、测控、生物医学工程、计算机、电子与信息等。
 
-工学博士，高级工程师，硕士生导师，入选“1551”托举人才计划，智能机器人创新实践基地主任。毕业于北京航空航天大学机器人研究所。美国约翰霍普金斯大学LCSR实验室联合培养。主持国家重点研发计划“智能机器人”专项、“数字诊疗”专项以及国家自然科学基金等国家级课题多项，主持中央高校基本科研业务费1项，主持横向创新研究项目4项。参与“载人航天预先研究”、国家磁约束核聚变能发展研究专项、国家自然科学基金项目、北京市自然科学基金、北京市科委/中关村科技以及某领域十三五装备预先研究等多个项目。现为国家肿瘤微创治疗产业技术创新战略联盟头颈专业委员会委员，中国医药卫生文化协会医工融合分会常务委员。指导学生多次获得“大学生工程实践与创新能力大赛”、中国工程机器人大赛、ROBOCOM、挑战杯、互联网+、研创展等竞赛奖励近20项，其中全国与省部级比赛一等奖5项。发表学术论文40余篇，申请和授权发明专利10多项。包括IEEE Robotics and Automation Letters（RA-L），Journal of Intelligent & Robotic Systems(JINT)，Neurocomputing，Robotica等SCI期刊以及 IEEE International Conference on Robotics and Automation (ICRA), IEEE/RSJ International Conference on Intelligent Robots and Systems(IROS)等机器人领域顶级会议。
+<span style="color:#0099ff;">【个人介绍】</span>
+
+工学博士，副高级，博士生导师、硕士生导师，入选“1551”托举人才计划，智能机器人创新实践基地主任。毕业于北京航空航天大学机器人研究所。美国约翰霍普金斯大学LCSR实验室联合培养。主持国家重点研发计划“智能机器人”专项、“数字诊疗”专项以及国家自然科学基金等国家级课题多项，主持中央高校基本科研业务费1项，主持横向创新研究项目4项。参与“载人航天预先研究”、国家磁约束核聚变能发展研究专项、国家自然科学基金项目、北京市自然科学基金、北京市科委/中关村科技以及某领域十三五装备预先研究等多个项目。现为国家肿瘤微创治疗产业技术创新战略联盟头颈专业委员会委员，中国医药卫生文化协会医工融合分会常务委员。指导学生多次获得“大学生工程实践与创新能力大赛”、中国工程机器人大赛、ROBOCOM、挑战杯、互联网+、研创展等竞赛奖励近20项，其中全国与省部级比赛一等奖5项。发表学术论文40余篇，申请和授权发明专利10多项。包括IEEE Robotics and Automation Letters（RA-L），Journal of Intelligent & Robotic Systems(JINT)，Neurocomputing，Robotica等SCI期刊以及 IEEE International Conference on Robotics and Automation (ICRA), IEEE/RSJ International Conference on Intelligent Robots and Systems(IROS)等机器人领域顶级会议。
 
  <span style="color:#0099ff;">【科研项目】</span>  
 [1]	2019.12-2022.12，国家重点研发计划“数字诊疗装备研发”重点专项，头颈外科微创手术机器人关键技术与平台研发，子课题主持，在研。  
@@ -67,7 +72,7 @@ redirect_from:
 
 * 中国医药卫生文化协会 医工融合分会 常务委员
 * 国家肿瘤微创治疗产业技术创新战略联盟 头颈外科分会 委员
-* 中国人工智能学会认知系统与信息处理专业委员会会员
+* 中国人工智能学会认知系统与信息处理专业委员会 委员
 * 审稿人: ICRA 2022/ICRA 2020 /IROS 2020 /IROS 2019 /IROS 2013 /IEEE ARM 2020 /Frontiers Robotics and AI Reviewer /Robotica /Journal of Intelligent and Robotic Systems /Robotics and Autonomous Systems /IEEE Access/IEEE Robotics and Automation Letter (RA-L)
 * ICCSIP 2022国际会议组委会主席、IEEE Cyber国家会议Session Chair、Applied Science Guest Editor
 
@@ -84,6 +89,7 @@ redirect_from:
 * 机器人操作系统与控制算法， 32学时/2学分，研一
 
 ## 大学生比赛与学生培养
+
 * 2022RoboCom机器人开发者大赛全国总决赛工程创客技术竞赛，国家三等奖，1项，2022
 * 2022RoboCom机器人开发者大赛CAIR工程竞技赛道全国总决赛物资运送竞赛项目，国家三等奖，1项，2022
 * 2022RoboCom 机器人开发者大赛CAIP编程设计全国总决赛编程技能普及赛（本科组）竞赛，国家三等奖，1项，2022
