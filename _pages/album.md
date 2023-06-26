@@ -1,6 +1,8 @@
 ---
 title: "Album"
-
+permalink: /album/
+author_profile: true
+---
 ---
 ## Album
 
