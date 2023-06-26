@@ -15,6 +15,9 @@ main:
 
   - title: "Teaching"
     url: /teaching/
+
+  - title: "Album相册"
+    url: /album/
   # - title: "Teaching"
   #   url: /teaching/   
       
