@@ -15,16 +15,22 @@ redirect_from:
 
 <span style="color:red;">【本年度招生】</span>
 
-硕士研究生（保送、考研，2023-2024年招收学硕、专硕）
-博士研究生。
-lihaiyuan@bupt.edu.cn
+课题组团队氛围nice，团结有目标。来自机器人、机械和自动化等各个专业。科研项目充足，方向聚焦机器人国际前沿，产学研合作密切。
+有博士、硕士招生名额，欢迎交流。
+
+* 博士：喜欢科研，乐于学术，踏实做事，和同学友好相处，有投入时间的愿力，内心驱动的同学欢迎加入，2023-2024年。
+
+* 硕士：保送、考研，2023-2024年招收学硕、专硕。
+
+联系方式：lihaiyuan@bupt.edu.cn
+
 <span style="color:#0099ff;">【招生专业】</span>
 
 机械工程、自动化、控制、测控、生物医学工程、计算机、电子与信息等。
 
 <span style="color:#0099ff;">【个人介绍】</span>
 
-工学博士，副高级，博士生导师、硕士生导师，入选“1551”托举人才计划，智能机器人创新实践基地主任。毕业于北京航空航天大学机器人研究所。美国约翰霍普金斯大学LCSR实验室联合培养。主持国家重点研发计划“智能机器人”专项、“数字诊疗”专项以及国家自然科学基金等国家级课题多项，主持中央高校基本科研业务费1项，主持横向创新研究项目4项。参与“载人航天预先研究”、国家磁约束核聚变能发展研究专项、国家自然科学基金项目、北京市自然科学基金、北京市科委/中关村科技以及某领域十三五装备预先研究等多个项目。现为国家肿瘤微创治疗产业技术创新战略联盟头颈专业委员会委员，中国医药卫生文化协会医工融合分会常务委员。指导学生多次获得“大学生工程实践与创新能力大赛”、中国工程机器人大赛、ROBOCOM、挑战杯、互联网+、研创展等竞赛奖励近20项，其中全国与省部级比赛一等奖5项。发表学术论文40余篇，申请和授权发明专利10多项。包括IEEE Robotics and Automation Letters（RA-L），Journal of Intelligent & Robotic Systems(JINT)，Neurocomputing，Robotica等SCI期刊以及 IEEE International Conference on Robotics and Automation (ICRA), IEEE/RSJ International Conference on Intelligent Robots and Systems(IROS)等机器人领域顶级会议。
+工学博士，副高级，博士生导师、硕士生导师，入选“1551”托举人才计划，智能机器人创新实践基地主任。毕业于北京航空航天大学机器人研究所。美国约翰霍普金斯大学LCSR实验室联合培养。主持国家重点研发计划“智能机器人”专项、“数字诊疗”专项以及国家自然科学基金等国家级课题多项，主持中央高校基本科研业务费1项，主持横向创新研究项目4项。参与“载人航天预先研究”、国家磁约束核聚变能发展研究专项、国家自然科学基金项目、北京市自然科学基金、北京市科委/中关村科技以及某领域十三五装备预先研究等多个项目。现为国家肿瘤微创治疗产业技术创新战略联盟头颈专业委员会委员，中国医药卫生文化协会医工融合分会常务委员、中国人工智能学会认知系统与信息处理专业委员会委员。指导学生多次获得“大学生工程实践与创新能力大赛”、中国工程机器人大赛、ROBOCOM、挑战杯、互联网+、研创展等竞赛奖励近20项，其中全国与省部级比赛一等奖5项。发表学术论文40余篇，申请和授权发明专利10多项。包括IEEE Robotics and Automation Letters（RA-L），Journal of Intelligent & Robotic Systems(JINT)，Neurocomputing，Robotica等SCI期刊以及 IEEE International Conference on Robotics and Automation (ICRA), IEEE/RSJ International Conference on Intelligent Robots and Systems(IROS)等机器人领域顶级会议。
 
  <span style="color:#0099ff;">【科研项目】</span>  
 [1]	2019.12-2022.12，国家重点研发计划“数字诊疗装备研发”重点专项，头颈外科微创手术机器人关键技术与平台研发，子课题主持，在研。  
@@ -73,6 +79,8 @@ lihaiyuan@bupt.edu.cn
 * 中国医药卫生文化协会 医工融合分会 常务委员
 * 国家肿瘤微创治疗产业技术创新战略联盟 头颈外科分会 委员
 * 中国人工智能学会认知系统与信息处理专业委员会 委员
+* 《应用基础与工程科学学报》青年编委
+* Cobots for Healthcare 编委
 * 审稿人: ICRA 2022/ICRA 2020 /IROS 2020 /IROS 2019 /IROS 2013 /IEEE ARM 2020 /Frontiers Robotics and AI Reviewer /Robotica /Journal of Intelligent and Robotic Systems /Robotics and Autonomous Systems /IEEE Access/IEEE Robotics and Automation Letter (RA-L)
 * ICCSIP 2022国际会议组委会主席、IEEE Cyber国家会议Session Chair、Applied Science Guest Editor
 
@@ -89,7 +97,10 @@ lihaiyuan@bupt.edu.cn
 * 机器人操作系统与控制算法， 32学时/2学分，研一
 
 ## 大学生比赛与学生培养
-
+第*
+* 2023 
+* 2023 （第16届）中国大学生计算机设计大赛北京市级“朔日杯”赛 一等奖
+* 2023 第二十五届中国机器人及人工智能大赛全国总决赛 人工智能创新赛 二等奖
 * 2022RoboCom机器人开发者大赛全国总决赛工程创客技术竞赛，国家三等奖，1项，2022
 * 2022RoboCom机器人开发者大赛CAIR工程竞技赛道全国总决赛物资运送竞赛项目，国家三等奖，1项，2022
 * 2022RoboCom 机器人开发者大赛CAIP编程设计全国总决赛编程技能普及赛（本科组）竞赛，国家三等奖，1项，2022
