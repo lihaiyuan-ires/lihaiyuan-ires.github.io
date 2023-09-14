@@ -99,7 +99,7 @@ author_profile: true
 <br>
 <br>
 <hr>
-<h3 id="Yang"><a href="#Yang" class="headerlink" title="Yang"></a>贺添</h3><img style="float: right;" src="https://lihaiyuan-ires.github.io/images/2023yangmingda.jpg" width=180>
+<h3 id="Yang"><a href="#Yang" class="headerlink" title="Yang"></a>杨明达</h3><img style="float: right;" src="https://lihaiyuan-ires.github.io/images/2023yangmingda.jpg" width=180>
 <p>硕士研究生<br> </p>
 <strong>研究方向(Research Interests):</strong>
 <br>
