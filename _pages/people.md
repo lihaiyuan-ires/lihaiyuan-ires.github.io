@@ -15,20 +15,7 @@ author_profile: true
 <br>-- 灵巧手与灵巧操作 (Robot hand and Dexterous manipulation)
 <hr>
 <h2 id="Graduates"><a href="#Graduates" class="headerlink" title="Graduates"></a> <strong> 研究生(Graduates) </strong></h2><hr>
-<h3 id="崔林林"><a href="#Linlin-Cui" class="headerlink" title="Linlin-Cui"></a>崔林林</h3><img style="float: right;" src="https://lihaiyuan-ires.github.io/images/cuilinlin.jpg" width=180>
-<p>硕士研究生<br> </p>
-<strong>研究方向(Research Interests):</strong>
-<br>
-微创手术机器人设计、建模与控制技术研究 （国家重点研发计划）
-<br>
-<strong>教育经历(Education):</strong>
-<br>
-2020-至今，硕士，北京邮电大学
-<br>
-2015-2019, 本科，河北农业大学，机械工程专业
-<br>
-<br>
-<hr>
+
 <h3 id="王浩羽"><a href="#Haoyuan-Wang" class="headerlink" title="Haoyuan-Wang"></a>王浩羽</h3><img style="float: right;" src="https://lihaiyuan-ires.github.io/images/wanghaoyu.jpg" width=180>
 <p>硕士研究生<br> </p>
 <strong>研究方向(Research Interests):</strong>
@@ -97,6 +84,52 @@ author_profile: true
 2018-2022，本科，北京邮电大学，测控技术专业
 <br>
 <br>
+<hr>
+<h3 id="邵泽淼"><a href="#Shao" class="headerlink" title="Shao"></a>邵泽淼</h3><img style="float: right;" src="https://lihaiyuan-ires.github.io/images/2023shaozemiao.jpg" width=180>
+<p>硕士研究生<br> </p>
+<strong>研究方向(Research Interests):</strong>
+<br>
+<br>
+<br>
+<strong>教育经历(Education):</strong>
+<br>
+2023-至今，硕士，北京邮电大学
+<br>
+2019-2023，本科，北京林业大学，自动化专业
+<br>
+<br>
+<hr>
+<h3 id="Yang"><a href="#Yang" class="headerlink" title="Yang"></a>贺添</h3><img style="float: right;" src="https://lihaiyuan-ires.github.io/images/2023yangmingda.jpg" width=180>
+<p>硕士研究生<br> </p>
+<strong>研究方向(Research Interests):</strong>
+<br>
+<br>
+<br>
+<strong>教育经历(Education):</strong>
+<br>
+2023-至今，硕士，北京邮电大学
+<br>
+2019-2023，本科，西安建筑科技大学，机械设计制造及其自动化专业
+<br>
+<br>
+<hr>
+<h2 id="Alumni"><a href="#Alumni" class="headerlink" title="Alumni"></a> <strong>毕业研究生 </strong></h2><hr>
+
+<h3 id="崔林林"><a href="#Linlin-Cui" class="headerlink" title="Linlin-Cui"></a>崔林林</h3><img style="float: right;" src="https://lihaiyuan-ires.github.io/images/cuilinlin.jpg" width=180>
+<p>硕士研究生<br> </p>
+<strong>研究方向(Research Interests):</strong>
+<br>
+狭小腔道手术机器人机电系统设计与运动控制技术研究 （国家重点研发计划）
+<br>
+<strong>教育经历(Education):</strong>
+<br>
+2020-2023，硕士，北京邮电大学
+<br>
+2015-2019, 本科，河北农业大学，机械工程专业
+<br>
+<strong>毕业去向:</strong>
+<br>
+三一智矿科技有限公司
 <hr>
 <h3 id="刘畅"><a href="#Chang-Liu" class="headerlink" title="Chang-Liu"></a>刘畅</h3><img style="float: right;" src="https://lihaiyuan-ires.github.io/images/liuchang.jpg" width=180>
 <p>硕士研究生<br> </p>
