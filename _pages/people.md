@@ -9,7 +9,7 @@ author_profile: true
 <h3 id="李海源"><a href="#Haiyuan-Li" class="headerlink" title="Haiyuan Li"></a>李海源</h3><img style="float: right;" src="https://lihaiyuan-ires.github.io/images/profile.jpg" width=180>
 <p>博士，副教授，博导、硕导<br>@ 北京邮电大学自动化学院</p>
 <strong>研究方向(Research Interests):</strong>
-<br>智能机器人设计及嵌入式控制系统 (Intelligent Robotics Design and Embedded Control system)
+<br>智能机器人设计与机电控制 (Intelligent Robotics Design and Embedded Control system)
 <br>-- 医疗手术机器人 (Medical Surgical Robotics)
 <br>-- 模块化及自重构移动机器人 (Modular and Self-reconfigurable/assembling mobile robot)
 <br>-- 灵巧手与灵巧操作 (Robot hand and Dexterous manipulation)
@@ -20,11 +20,15 @@ author_profile: true
 <p>硕士研究生<br> </p>
 <strong>研究方向(Research Interests):</strong>
 <br>
-模块化自组装机器人 （国家重点研发计划、国家自然科学基金）
+模块化自组装机器人 （国家自然科学基金、十三五国家重点研发计划）
+<br>
+<strong>奖励成果(Awards):</strong>
+<br>
+国家奖学金、中国研究生机器人创新设计大赛全国二等奖、SCIE论文1篇、EI论文1篇
 <br>
 <strong>教育经历(Education):</strong>
 <br>
-2021-至今，硕士，北京邮电大学
+2021-至今，硕士，北京邮电大学，机械工程
 <br>
 2016-2021, 本科，北京邮电大学，机械工程专业
 <br>
@@ -34,11 +38,11 @@ author_profile: true
 <p>硕士研究生<br> </p>
 <strong>研究方向(Research Interests):</strong>
 <br>
-<br>
+超声引导手术机器人导航与控制方法（北京市科技计划项目）
 <br>
 <strong>教育经历(Education):</strong>
 <br>
-2022-至今，硕士，北京邮电大学
+2022-至今，硕士，北京邮电大学，机械工程
 <br>
 2018-2022, 本科，北京邮电大学，自动化专业
 <br>
@@ -47,7 +51,7 @@ author_profile: true
 <p>硕士研究生<br> </p>
 <strong>研究方向(Research Interests):</strong>
 <br>
-<br>
+经自然腔道手术机器人设计与运动控制（北京市自然基金海淀联合基金重点专项、医工合作项目）
 <br>
 <strong>教育经历(Education):</strong>
 <br>
@@ -61,6 +65,7 @@ author_profile: true
 <p>硕士研究生<br> </p>
 <strong>研究方向(Research Interests):</strong>
 <br>
+自然腔道柔性手术机器人的设计与控制（医工合作项目）
 <br>
 <br>
 <strong>教育经历(Education):</strong>
@@ -75,7 +80,7 @@ author_profile: true
 <p>硕士研究生<br> </p>
 <strong>研究方向(Research Interests):</strong>
 <br>
-<br>
+超声引导手术机器人控制与路径规划研究（医工合作项目）
 <br>
 <strong>教育经历(Education):</strong>
 <br>
@@ -95,7 +100,7 @@ author_profile: true
 <br>
 2023-至今，硕士，北京邮电大学
 <br>
-2019-2023，本科，北京林业大学，自动化专业
+2019-2023，本科，北京林业大学（保送），自动化专业
 <br>
 <br>
 <hr>
@@ -119,13 +124,17 @@ author_profile: true
 <p>硕士研究生<br> </p>
 <strong>研究方向(Research Interests):</strong>
 <br>
-狭小腔道手术机器人机电系统设计与运动控制技术研究 （国家重点研发计划）
+狭小腔道手术机器人机电系统设计与运动控制技术研究 （十三五国家重点研发计划）
+<br>
+<strong>奖励成果(Awards):</strong>
+<br>
+EI论文1篇，授权国家发明专利3项，北京邮电大学第六届研究生创新创业成果展二等奖。
 <br>
 <strong>教育经历(Education):</strong>
 <br>
-2020-2023，硕士，北京邮电大学
+2020-2023, 硕士, 北京邮电大学
 <br>
-2015-2019, 本科，河北农业大学，机械工程专业
+2015-2019, 本科, 河北农业大学, 机械工程专业
 <br>
 <strong>毕业去向:</strong>
 <br>
@@ -135,7 +144,12 @@ author_profile: true
 <p>硕士研究生<br> </p>
 <strong>研究方向(Research Interests):</strong>
 <br>
-面向遥操作的上肢外骨骼机器人设计与控制研究 （航天预先研究项目）<br>
+面向遥操作的上肢外骨骼机器人设计与控制研究 （航天预先研究项目）
+<br>
+<strong>奖励成果(Awards):</strong>
+<br>
+机械工程学报论文1篇。
+<br>
 <strong>教育经历(Education):</strong>
 <br>
 2017-2020，硕士，北京交通大学
