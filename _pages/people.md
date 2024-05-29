@@ -7,7 +7,7 @@ author_profile: true
 <h2 id="Faculty"><a href="#Faculty" class="headerlink" title="Faculty"></a> <strong> 教师 (Faculty) </strong></h2><hr>
 
 <h3 id="李海源"><a href="#Haiyuan-Li" class="headerlink" title="Haiyuan Li"></a>李海源</h3><img style="float: right;" src="https://lihaiyuan-ires.github.io/images/profile.jpg" width=180>
-<p>博士，副教授，博导、硕导<br>@ 北京邮电大学自动化学院</p>
+<p>博士，副教授，博导、硕导<br>@ 北京邮电大学智能工程与自动化学院</p>
 <strong>研究方向(Research Interests):</strong>
 <br>智能机器人设计与机电控制 (Intelligent Robotics Design and Embedded Control system)
 <br>-- 医疗手术机器人 (Medical Surgical Robotics)
@@ -27,7 +27,7 @@ author_profile: true
 <br>
 2021-2024，硕士，南京航空航天大学（保送），航空宇航科学与技术
 <br>
-2017-2021, 本科，华中农业大学，农业机械及其自动化（卓越工程师班）
+2017-2021，本科，华中农业大学，农业机械及其自动化（卓越工程师班）
 <br>
 <br>
 <hr>
@@ -56,6 +56,7 @@ author_profile: true
 <strong>研究方向(Research Interests):</strong>
 <br>
 超声引导手术机器人导航与控制方法（北京市科技计划项目）
+<br>
 <br>
 <strong>教育经历(Education):</strong>
 <br>
