@@ -7,7 +7,7 @@ author_profile: true
 <h2 id="Faculty"><a href="#Faculty" class="headerlink" title="Faculty"></a> <strong> 教师 (Faculty) </strong></h2><hr>
 
 <h3 id="李海源"><a href="#Haiyuan-Li" class="headerlink" title="Haiyuan Li"></a>李海源</h3><img style="float: right;" src="https://lihaiyuan-ires.github.io/images/profile.jpg" width=180>
-<p>博士，副教授，博导、硕导<br>@ 北京邮电大学智能工程与自动化学院</p>
+<p>博士，长聘副教授，博导、硕导<br>@ 北京邮电大学智能工程与自动化学院</p>
 <strong>研究方向(Research Interests):</strong>
 <br>智能机器人设计与机电控制 (Intelligent Robotics Design and Embedded Control system)
 <br>-- 医疗手术机器人 (Medical Surgical Robotics)
