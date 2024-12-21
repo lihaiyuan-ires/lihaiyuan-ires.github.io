@@ -6,7 +6,7 @@ author_profile: true
 # Research field
  [[CV in English]](https://lihaiyuan-ires.github.io/images/biolihaiyuan.pdf)
 ### Surgical robot
-- Flexible robot for endoscopic surgery, e.g. robotic thyroid surgery
+- Flexible robot for endoscopic surgery, e.g. robotic head and neck surgery
 - Ultrasound guided robot, ultrasound and robot calibration, registration and planning control as well as robot design for prostate, liver
 
 ### Robot hand and robot manipulation
@@ -16,7 +16,10 @@ author_profile: true
 ### Modular robotics
 - Self-assembling robot, swarm robot with mechanical interconnection or autonomous docking
 - Self-reconfigurable robot
+## 2024
+- Li Haiyuan*, He Tian, Yang Mingda, Chao Minghui, Zhang Qinjian, Song Hongxing. An Ultrasound-guided Miniature Hand-eye Integrated Robot for Percutaneous Needle Placement [J]. Journal of Mechanism and Robotics. Accepted.
 
+- Guo Jiacheng, Zhang Qinjian, Li Haiyuan*, Ni Xin，Zhang Yaopeng and Tian Sukun. Kinematic Modeling and Control of a Wire-Driven Surgical Robot. The 2024 IEEE International Conference on Robotics and Biomimetics, Bangkok, Thailand, December 10-14, 2024.
 ## 2022
 - Li Haiyuan*, Cui Linlin, Zhang Yuhang, Zhang Qinjian and Wang Haoyu Wang. A Modular and Extended Positioning Robotic System for Percutaneous Puncture Surgery. 2022 IEEE International Conference on Robotics and Biomimetics (ROBIO), 2022. 
 
@@ -99,12 +102,6 @@ author_profile: true
 
 专利
 ======
-- 一种可组装机器人.
-
-- 一种用于机器人快速连接分离的对接机构.
-
-- 具有自组装特征的单体自变形机器人.
-
-- 一种足球机器人.
+to be listed
 
 
