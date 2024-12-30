@@ -17,15 +17,16 @@ author_profile: true
 - Self-assembling robot, swarm robot with mechanical interconnection or autonomous docking
 - Self-reconfigurable robot
 ## 2024
-- Li Haiyuan*, He Tian, Yang Mingda, Chao Minghui, Zhang Qinjian, Song Hongxing. An Ultrasound-guided Miniature Hand-eye Integrated Robot for Percutaneous Needle Placement [J]. Journal of Mechanism and Robotics. Accepted.
+- Li Haiyuan*, He Tian, Yang Mingda, Chao Minghui, Zhang Qinjian, Song Hongxing. An Ultrasound-guided Miniature Hand-eye Integrated Robot for Percutaneous Needle Placement [J]. Journal of Mechanism and Robotics. Accepted. [[fulltext]](https://asmedigitalcollection.asme.org/mechanismsrobotics/article-abstract/doi/10.1115/1.4067530/1211022/An-Ultrasound-guided-Miniature-Hand-eye-Integrated?redirectedFrom=fulltext)
 
 - Guo Jiacheng, Zhang Qinjian, Li Haiyuan*, Ni Xin，Zhang Yaopeng and Tian Sukun. Kinematic Modeling and Control of a Wire-Driven Surgical Robot. The 2024 IEEE International Conference on Robotics and Biomimetics, Bangkok, Thailand, December 10-14, 2024.
 ## 2022
-- Li Haiyuan*, Cui Linlin, Zhang Yuhang, Zhang Qinjian and Wang Haoyu Wang. A Modular and Extended Positioning Robotic System for Percutaneous Puncture Surgery. 2022 IEEE International Conference on Robotics and Biomimetics (ROBIO), 2022. 
+- Li Haiyuan*, Cui Linlin, Zhang Yuhang, Zhang Qinjian and Wang Haoyu Wang. A Modular and Extended Positioning Robotic System for Percutaneous Puncture Surgery. 2022 IEEE International Conference on Robotics and Biomimetics (ROBIO), Jinghong, China, 2022, pp. 1953-1957. [[fulltext]](https://ieeexplore.ieee.org/document/10011759)
 
-- Li Haiyuan*, Wang Haoyu, Zhang Bin and Zhang Qinjian Zhang. Path Planning and Control for Modular Self-assembling Robots on Rough Terrain. The 2022 IEEE International Conference on Robotics and Biomimetics (ROBIO), 2022.
+- Li Haiyuan*, Wang Haoyu, Zhang Bin and Zhang Qinjian Zhang. Path Planning and Control for Modular Self-assembling Robots on Rough Terrain. 2022 IEEE International Conference on Robotics and Biomimetics (ROBIO), Jinghong, China, 2022, pp. 1953-1957. [[fulltext]](https://ieeexplore.ieee.org/document/100120169)
 
-- Yu Hongze, Li Haiyuan*, Wang Yan. Teleoperation of a dexterous hand using a wearable hand. The Seventh International Conference on Cognitive Systems and Information Processing (ICCSIP 2022), 2022.
+- Yu Hongze, Li Haiyuan*, Wang Yan. Teleoperation of a dexterous hand using a wearable hand. The Seventh International Conference on Cognitive Systems and Information Processing (ICCSIP 2022), Communications in Computer and Information Science, vol 1787. Springer, Singapore.[[fulltext]](https://link.springer.com/chapter/10.1007/978-981-99-0617-8_38#citeas)
+
 
 - Li, Haiyuan*, Haoyu Wang, Linlin Cui, Jiake Li*, Qi Wei, and Jiqiang Xia.  Design and Experiments of a Compact Self-Assembling Mobile Modular Robot with Joint Actuation and Onboard Visual-Based Perception. Applied Sciences,2022, 12(6): 3050. [[fulltext]](https://www.mdpi.com/2076-3417/12/6/3050/htm)
 
