@@ -20,13 +20,16 @@ author_profile: true
 - Li Haiyuan*, He Tian, Yang Mingda, Chao Minghui, Zhang Qinjian, Song Hongxing. An Ultrasound-guided Miniature Hand-eye Integrated Robot for Percutaneous Needle Placement [J]. Journal of Mechanism and Robotics. Accepted. [[fulltext]](https://asmedigitalcollection.asme.org/mechanismsrobotics/article-abstract/doi/10.1115/1.4067530/1211022/An-Ultrasound-guided-Miniature-Hand-eye-Integrated?redirectedFrom=fulltext)
 
 - Guo Jiacheng, Zhang Qinjian, Li Haiyuan*, Ni Xin，Zhang Yaopeng and Tian Sukun. Kinematic Modeling and Control of a Wire-Driven Surgical Robot. The 2024 IEEE International Conference on Robotics and Biomimetics, Bangkok, Thailand, December 10-14, 2024.
+
+- Yuexuan Wang, Qinjian Zhang, Haiyuan Li*, and Hongxing Song. Deformation Modeling of Interaction Between
+Puncture Needle and Soft Biological Tissues. The 17th International Conference on Intelligent Robotics and Applications, Xi'an, China, July 31–August 2, 2024, pp. 1-16. [[fulltext]](https://doi.org/10.1007/978-981-96-0777-8_7)
+
 ## 2022
 - Li Haiyuan*, Cui Linlin, Zhang Yuhang, Zhang Qinjian and Wang Haoyu Wang. A Modular and Extended Positioning Robotic System for Percutaneous Puncture Surgery. 2022 IEEE International Conference on Robotics and Biomimetics (ROBIO), Jinghong, China, 2022, pp. 1953-1957. [[fulltext]](https://ieeexplore.ieee.org/document/10011759)
 
 - Li Haiyuan*, Wang Haoyu, Zhang Bin and Zhang Qinjian Zhang. Path Planning and Control for Modular Self-assembling Robots on Rough Terrain. 2022 IEEE International Conference on Robotics and Biomimetics (ROBIO), Jinghong, China, 2022, pp. 1953-1957. [[fulltext]](https://ieeexplore.ieee.org/document/100120169)
 
 - Yu Hongze, Li Haiyuan*, Wang Yan. Teleoperation of a dexterous hand using a wearable hand. The Seventh International Conference on Cognitive Systems and Information Processing (ICCSIP 2022), Communications in Computer and Information Science, vol 1787. Springer, Singapore.[[fulltext]](https://link.springer.com/chapter/10.1007/978-981-99-0617-8_38#citeas)
-
 
 - Li, Haiyuan*, Haoyu Wang, Linlin Cui, Jiake Li*, Qi Wei, and Jiqiang Xia.  Design and Experiments of a Compact Self-Assembling Mobile Modular Robot with Joint Actuation and Onboard Visual-Based Perception. Applied Sciences,2022, 12(6): 3050. [[fulltext]](https://www.mdpi.com/2076-3417/12/6/3050/htm)
 
@@ -35,7 +38,9 @@ author_profile: true
 - Zhang Qinjian, Zhang Xiangyan, Li Haiyuan*. A Grasp Pose Detection Network Based on the DeepLabv3+ Semantic Segmentation Model. In: Intelligent Robotics and Applications. ICIRA 2022. Lecture Notes in Computer Science, 2022, vol 13458.
 
 - Zhang Qinjian, Wang Pengcheng, Li Haiyuan*, Li Xingshuai. Design, Modeling and Experiments of a Modular Robotic Finger. In: Intelligent Robotics and Applications. ICIRA 2022. Lecture Notes in Computer Science, 2022, vol 13455.
-  
+
+- Yufei Hao, Shixin Zhang, Bin Fang, Fuchun Sun, Huaping Liu and Haiyuan Li. A Review of Smart Materials for the Boost of Soft Actuators, Soft Sensors, and Robotics Applications. Chinese Journal of Mechanical Engineering, 2022 35: 37.[[fulltext]](https://doi.org/10.1186/s10033-022-00707-2)
+
 ## 2021
 - Haiyuan Li*, Linlin Cui, Yuxuan Qiu, Lutao Yan, Qinjian Zhang. System Design and Simulation Experiments of a Virtual Reality Based Tele-operated Surgical Robot System. The 2021 IEEE International Conference on Robotics and Biomimetics(IEEE), Sanya, China, December 6-10.
 
@@ -103,6 +108,6 @@ author_profile: true
 
 专利
 ======
-to be listed
+[[list link]](https://teacher.bupt.edu.cn/lihaiyuan/zh_CN/zlcg/201409/list/index.htm)
 
 
