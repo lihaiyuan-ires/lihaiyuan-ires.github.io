@@ -10,7 +10,7 @@ align-items: center;
 }
 .container .image {
 margin-right: 10px; /* 根据需要调整间距 */
-width: 500px
+width: 800px
 }
 
 </style>
@@ -29,19 +29,33 @@ width: 500px
 - Self-reconfigurable robot
 
 ## 2024
-Li Haiyuan*, He Tian, Yang Mingda, Chao Minghui, Zhang Qinjian, Song Hongxing. An Ultrasound-guided Miniature Hand-eye Integrated Robot for Percutaneous Needle Placement [J]. Journal of Mechanism and Robotics. Accepted. [[fulltext]](https://asmedigitalcollection.asme.org/mechanismsrobotics/article-abstract/doi/10.1115/1.4067530/1211022/An-Ultrasound-guided-Miniature-Hand-eye-Integrated?redirectedFrom=fulltext) 
-  
 <div class="container">
 <div class="image">
-<img src="https://lihaiyuan-ires.github.io/images/2024robiocablesurgicalrobot.gif" alt="middle">
+<img src="https://lihaiyuan-ires.github.io/images/2024JMRUSguidedPuncturerobot.gif" alt="JMRUSguidedPuncturerobot">
 </div>
 <div class="text">
-Guo Jiacheng, Zhang Qinjian, Li Haiyuan*, Ni Xin，Zhang Yaopeng and Tian Sukun. Kinematic Modeling and Control of a Wire-Driven Surgical Robot. The 2024 IEEE International Conference on Robotics and Biomimetics, Bangkok, Thailand, December 10-14, 2024
+Li Haiyuan*, He Tian, Yang Mingda, Chao Minghui, Zhang Qinjian, Song Hongxing. An Ultrasound-guided Miniature Hand-eye Integrated Robot for Percutaneous Needle Placement [J]. Journal of Mechanism and Robotics. Accepted. <a href="An-Ultrasound-guided-Miniature-Hand-eye-Integrated?redirectedFrom=fulltext">[Fulltext]</a>
 </div>
 </div>
 
+<div class="container">
+<div class="image">
+<img src="https://lihaiyuan-ires.github.io/images/2024robiocablesurgicalrobot.gif" alt="robiocablesurgicalrobot">
+</div>
+<div class="text">
+Guo Jiacheng, Zhang Qinjian, Li Haiyuan*, Ni Xin，Zhang Yaopeng and Tian Sukun. Kigitnematic Modeling and Control of a Wire-Driven Surgical Robot. The 2024 IEEE International Conference on Robotics and Biomimetics, Bangkok, Thailand, December 10-14, 2024.
+</div>
+</div>
+
+<div class="container">
+<div class="image">
+<img src="https://lihaiyuan-ires.github.io/images/2024ICIRAdeformationneedle.gif" alt="2024ICIRAdeformationneedle">
+</div>
+<div class="text">
 Yuexuan Wang, Qinjian Zhang, Haiyuan Li*, and Hongxing Song. Deformation Modeling of Interaction Between
-Puncture Needle and Soft Biological Tissues. The 17th International Conference on Intelligent Robotics and Applications, Xi'an, China, July 31–August 2, 2024, pp. 1-16. [[fulltext]](https://doi.org/10.1007/978-981-96-0777-8_7)
+Puncture Needle and Soft Biological Tissues. The 17th International Conference on Intelligent Robotics and Applications, Xi'an, China, July 31–August 2, 2024, pp. 1-16.<a href="https://doi.org/10.1007/978-981-96-0777-8_7">[Fulltext]</a>
+</div>
+</div>
 
 ## 2022
 - Li Haiyuan*, Cui Linlin, Zhang Yuhang, Zhang Qinjian and Wang Haoyu Wang. A Modular and Extended Positioning Robotic System for Percutaneous Puncture Surgery. 2022 IEEE International Conference on Robotics and Biomimetics (ROBIO), Jinghong, China, 2022, pp. 1953-1957. [[fulltext]](https://ieeexplore.ieee.org/document/10011759)
