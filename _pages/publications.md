@@ -13,11 +13,11 @@ align-items: center;
 }
 .container .image {
  margin-right: 20px; /*根据需要调整间距 */
- width: 500px; /* 设置图片宽度为容器宽度，高度将自动等比缩放 */
+ width: 300px; /* 设置图片宽度为容器宽度，高度将自动等比缩放 */
  height: auto; /* 确保高度自动，以保持图片的原始宽高比 */
 }
 .container .text{
- width: 100px; /* 设置图片宽度为容器宽度，高度将自动等比缩放 */
+ width: 700px; /* 设置图片宽度为容器宽度，高度将自动等比缩放 */
  height: auto; /* 确保高度自动，以保持图片的原始宽高比 */
 }
 
