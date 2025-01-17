@@ -7,10 +7,14 @@ author_profile: true
 .container {
 display: flex;
 align-items: center;
+/* width: 300px; 设置容器的宽度 */
+/*height: 200px;  设置容器的高度 */
+/*overflow: hidden;  隐藏超出容器的部分 */
 }
 .container .image {
-margin-right: 10px; /* 根据需要调整间距 */
-width: 800px
+ margin-right: 20px; /*根据需要调整间距 */
+ width: 500px; /* 设置图片宽度为容器宽度，高度将自动等比缩放 */
+ height: auto; /* 确保高度自动，以保持图片的原始宽高比 */
 }
 
 </style>
@@ -49,7 +53,7 @@ Guo Jiacheng, Zhang Qinjian, Li Haiyuan*, Ni Xin，Zhang Yaopeng and Tian Sukun.
 
 <div class="container">
 <div class="image">
-<img src="https://lihaiyuan-ires.github.io/images/2024ICIRAdeformationneedle.gif" alt="2024ICIRAdeformationneedle">
+<img src="https://lihaiyuan-ires.github.io/images/2024ICIRAdeformationneedle.gif"  alt="2024ICIRAdeformationneedle">
 </div>
 <div class="text">
 Yuexuan Wang, Qinjian Zhang, Haiyuan Li*, and Hongxing Song. Deformation Modeling of Interaction Between
