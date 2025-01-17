@@ -3,6 +3,17 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<style>
+.container {
+display: flex;
+align-items: center;
+}
+.container .image {
+margin-right: 10px; /* 根据需要调整间距 */
+width: 500px
+}
+
+</style>
 # Research field
  [[CV in English]](https://lihaiyuan-ires.github.io/images/biolihaiyuan.pdf)
 ### Surgical robot
@@ -16,12 +27,20 @@ author_profile: true
 ### Modular robotics
 - Self-assembling robot, swarm robot with mechanical interconnection or autonomous docking
 - Self-reconfigurable robot
+
 ## 2024
-- Li Haiyuan*, He Tian, Yang Mingda, Chao Minghui, Zhang Qinjian, Song Hongxing. An Ultrasound-guided Miniature Hand-eye Integrated Robot for Percutaneous Needle Placement [J]. Journal of Mechanism and Robotics. Accepted. [[fulltext]](https://asmedigitalcollection.asme.org/mechanismsrobotics/article-abstract/doi/10.1115/1.4067530/1211022/An-Ultrasound-guided-Miniature-Hand-eye-Integrated?redirectedFrom=fulltext)
+Li Haiyuan*, He Tian, Yang Mingda, Chao Minghui, Zhang Qinjian, Song Hongxing. An Ultrasound-guided Miniature Hand-eye Integrated Robot for Percutaneous Needle Placement [J]. Journal of Mechanism and Robotics. Accepted. [[fulltext]](https://asmedigitalcollection.asme.org/mechanismsrobotics/article-abstract/doi/10.1115/1.4067530/1211022/An-Ultrasound-guided-Miniature-Hand-eye-Integrated?redirectedFrom=fulltext) 
+  
+<div class="container">
+<div class="image">
+<img src="https://lihaiyuan-ires.github.io/images/2024robiocablesurgicalrobot.gif" alt="middle">
+</div>
+<div class="text">
+Guo Jiacheng, Zhang Qinjian, Li Haiyuan*, Ni Xin，Zhang Yaopeng and Tian Sukun. Kinematic Modeling and Control of a Wire-Driven Surgical Robot. The 2024 IEEE International Conference on Robotics and Biomimetics, Bangkok, Thailand, December 10-14, 2024
+</div>
+</div>
 
-- Guo Jiacheng, Zhang Qinjian, Li Haiyuan*, Ni Xin，Zhang Yaopeng and Tian Sukun. Kinematic Modeling and Control of a Wire-Driven Surgical Robot. The 2024 IEEE International Conference on Robotics and Biomimetics, Bangkok, Thailand, December 10-14, 2024.
-
-- Yuexuan Wang, Qinjian Zhang, Haiyuan Li*, and Hongxing Song. Deformation Modeling of Interaction Between
+Yuexuan Wang, Qinjian Zhang, Haiyuan Li*, and Hongxing Song. Deformation Modeling of Interaction Between
 Puncture Needle and Soft Biological Tissues. The 17th International Conference on Intelligent Robotics and Applications, Xi'an, China, July 31–August 2, 2024, pp. 1-16. [[fulltext]](https://doi.org/10.1007/978-981-96-0777-8_7)
 
 ## 2022
