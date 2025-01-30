@@ -42,7 +42,7 @@ align-items: center;
 <img src="https://lihaiyuan-ires.github.io/images/2024JMRUSguidedPuncturerobot.gif" alt="JMRUSguidedPuncturerobot">
 </div>
 <div class="text">
-Li Haiyuan*, He Tian, Yang Mingda, Chao Minghui, Zhang Qinjian, Song Hongxing. An Ultrasound-guided Miniature Hand-eye Integrated Robot for Percutaneous Needle Placement [J]. Journal of Mechanism and Robotics. Accepted. <a href="An-Ultrasound-guided-Miniature-Hand-eye-Integrated?redirectedFrom=fulltext">[Fulltext]</a>
+Li Haiyuan*, He Tian, Yang Mingda, Chao Minghui, Zhang Qinjian, Song Hongxing. An Ultrasound-guided Miniature Hand-eye Integrated Robot for Percutaneous Needle Placement [J]. Journal of Mechanism and Robotics. Jun 2025, 17(6): 065001. <a href="[An-Ultrasound-guided-Miniature-Hand-eye-Integrated?redirectedFrom=fulltext](https://asmedigitalcollection.asme.org/mechanismsrobotics/article/17/6/065001/1211022/An-Ultrasound-Guided-Miniature-Hand-Eye-Integrated)">[Fulltext]</a>
 </div>
 </div>
 
