@@ -3,7 +3,10 @@ title: "团队日常相册"
 permalink: /album/
 author_profile: true
 ---
-#### 秋季新学期 迎新会合影 @ BUPT · 智能工程与自动化学院楼 , September 2024
+#### 春节前TB羽毛球、聚餐、聚会 @ BUPT · 智能工程与自动化学院楼 , Jan. 18 2025
+<img style="float: middle;" src="https://lihaiyuan-ires.github.io/images/2025springfestival.gif" >
+<hr>
+
 <img style="float: middle;" src="https://lihaiyuan-ires.github.io/images/group202409.jpg" >
 <hr>
 
