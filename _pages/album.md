@@ -6,6 +6,8 @@ author_profile: true
 #### 课题组参展北京市国防教育展（双臂作业、四足等） @ BUPT, May. 24 2025
 <img style="float: middle;" src="https://lihaiyuan-ires.github.io/images/robotauto2.jpg" >
 <img style="float: middle;" src="https://lihaiyuan-ires.github.io/images/robotauto1.jpg" >
+<a href="https://app.cctv.com/special/m/livevod/index.html?guid=20bf70d9b1fb4fd1a67cfc337e5f5983&vtype=2&mid=173UJvqe0815">央视CCTV-7等媒体报道（1分5秒处）</a>
+<img style="float: middle;" src="https://lihaiyuan-ires.github.io/images/CCTV7.png" >
 <hr>
 
 #### 春节前TB羽毛球、聚餐、聚会 @ BUPT, Jan. 18 2025
