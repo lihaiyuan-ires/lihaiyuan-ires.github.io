@@ -36,7 +36,7 @@ align-items: center;
 - Self-assembling robot, swarm robot with mechanical interconnection or autonomous docking
 - Self-reconfigurable robot
 
-## 2024
+## 2025
 <div class="container">
 <div class="image">
 <img src="https://lihaiyuan-ires.github.io/images/2024JMRUSguidedPuncturerobot.gif" alt="JMRUSguidedPuncturerobot">
@@ -46,6 +46,7 @@ Li Haiyuan*, He Tian, Yang Mingda, Chao Minghui, Zhang Qinjian, Song Hongxing. A
 </div>
 </div>
 
+## 2024
 <div class="container">
 <div class="image">
 <img src="https://lihaiyuan-ires.github.io/images/2024robiocablesurgicalrobot.gif" alt="robiocablesurgicalrobot">
