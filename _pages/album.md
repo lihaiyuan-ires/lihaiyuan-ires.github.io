@@ -3,6 +3,11 @@ title: "团队日常相册"
 permalink: /album/
 author_profile: true
 ---
+#### 课题组参展北京市国防教育展（双臂作业、四足等） @ BUPT, May. 24 2025
+<img style="float: middle;" src="https://lihaiyuan-ires.github.io/images/robotauto2.jpg" >
+<img style="float: middle;" src="https://lihaiyuan-ires.github.io/images/robotauto1.jpg" >
+<hr>
+
 #### 春节前TB羽毛球、聚餐、聚会 @ BUPT, Jan. 18 2025
 <img style="float: middle;" src="https://lihaiyuan-ires.github.io/images/2025springfestival.gif" >
 <hr>
